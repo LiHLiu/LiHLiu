@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 
 _感谢访问我的 GitHub！_
 ----->
+
+## 📈 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiHLiu&show_icons=true&theme=radical)
